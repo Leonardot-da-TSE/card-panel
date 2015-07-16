@@ -1,0 +1,25 @@
+{
+  "name": "card-panel",
+  "version": "0.0.1",
+  "description": " ",
+  "keywords": [
+    "card",
+    "panel",
+    "card-panel",
+    "cardPanel",
+    "card panel",
+    "element panel"
+  ],
+  "author": "Leonardot-da-TSE",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Leonardot-da-TSE/card-panel.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "src/card-panel.js"
+}
