@@ -7,3 +7,5 @@
 .idea/vcs.xml
 .idea/workspace.xml
 node_modules
+.idea/jsLibraryMappings.xml
+.idea/uiDesigner.xml
